@@ -1,4 +1,5 @@
 Notes
+============================================================================================================================================
 
 Tecnology is made by people
 
@@ -58,10 +59,8 @@ HTTP Response Code
  404 code = not found
 more https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
-
-==============================================================================================================================================================
 QUIZ
-==============================================================================================================================================================
+============================================================================================================================================
 Reminder to whom it may concern: When they block copy/paste function on the website, you can inspect it and copy from the code
 
 1) When a browser connects to a web server to retrieve a document, what is the default TCP/IP port that is used? 80
